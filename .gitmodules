@@ -1,0 +1,3 @@
+[submodule "Build and Break/Assets/ArtisianDream.Tools"]
+	path = Build and Break/Assets/ArtisianDream.Tools
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
